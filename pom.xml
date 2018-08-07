@@ -114,9 +114,9 @@
         <version>${animal.sniffer.version}</version>
       </dependency>
       <dependency>
-        <groupId>com.squareup.okhttp3</groupId>
-        <artifactId>okhttp</artifactId>
-        <version>${okhttp.version}</version>
+        <groupId>com.github.checoalejandro</groupId>
+	       <artifactId>okhttp</artifactId>
+	       <version>parent-3.12.0</version>
       </dependency>
       <dependency>
         <groupId>com.google.code.gson</groupId>
